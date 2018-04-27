@@ -12336,6 +12336,16 @@
       "script": "shine(?:\\.min)?\\.js",
       "website": "http://bigspaceship.github.io/shine.js/"
     },
+    "SoftTr": {
+      "cats": [
+        6
+      ],
+      "icon": "Softtr.png",
+      "meta": {
+        "copyright": "SoftTr E-Ticaret Sistemleri"
+      },
+      "website": "http://www.softtr.com/"
+    },
     "swift.engine": {
       "cats": [
         1
