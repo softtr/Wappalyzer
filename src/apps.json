@@ -12547,6 +12547,16 @@
       "website": "http://www.xt-commerce.com"
     }
   },
+  "SoftTr": {
+      "cats": [
+        6
+      ],
+      "icon": "softtr.png",
+      "meta": {
+        "copyright": "SoftTr E-Ticaret Sistemleri"
+      },
+      "website": "http://www.softtr.com/"
+    },
   "categories": {
     "1": {
       "name": "CMS",
